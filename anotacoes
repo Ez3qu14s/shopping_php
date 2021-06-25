@@ -1,0 +1,1 @@
+SELECT f.nome_funcionario, d.nome_departamento FROM funcionario as f, departamento as d WHERE f.departamento_iddepartamento = d.iddepartamento
